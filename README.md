@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a student.
+I'm studying telecommunications engineering.
+
 <!--
 **yufunagi/yufunagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
