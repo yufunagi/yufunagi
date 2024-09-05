@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a student.
-I'm studying telecommunications engineering.
+I'm a telecommunications engineering student, still finding my feet in the world of coding. 📡💻 I'm eager to learn and collaborate on exciting projects. 
+
+Any tips or advice would be greatly appreciated! 😊 Let's build something amazing together! 🚀
 
 <!--
 **yufunagi/yufunagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
